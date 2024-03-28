@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/widverse-site/static/css/main.a5dd34d0.css",
+    "main.js": "/widverse-site/static/js/main.87f808aa.js",
+    "static/js/453.16c8be0e.chunk.js": "/widverse-site/static/js/453.16c8be0e.chunk.js",
+    "index.html": "/widverse-site/index.html",
+    "main.a5dd34d0.css.map": "/widverse-site/static/css/main.a5dd34d0.css.map",
+    "main.87f808aa.js.map": "/widverse-site/static/js/main.87f808aa.js.map",
+    "453.16c8be0e.chunk.js.map": "/widverse-site/static/js/453.16c8be0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5dd34d0.css",
+    "static/js/main.87f808aa.js"
+  ]
+}
